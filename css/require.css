@@ -1,0 +1,25 @@
+.panel-bg {background-color: #1b213d}
+.header-bg {background-color: #1c2340;}
+.main-bg {background-color: #151934;}
+.sl-bg {background-color: #5267ce}
+.main-cl {color: #576281;}
+.rose {color: #ffb5b5;}
+.gr-cl {color: #5267ce!important;font-size: 16px;font-weight: bolder;}
+.white {color: white!important;}
+.black {color: black!important;}
+.online {color: blue;}
+.offline {color: red}
+.hidden_pan {display: none;}
+.active-log {background-color:#5267ce; }
+.chidden_li {display: block!important;-webkit-animation-duration: 1s;animation-duration: 1s;-webkit-animation-fill-mode: both;animation-fill-mode: both;animation-name: fadeInUp;}
+.pd-1 {padding: 1%}
+.fdInL {-webkit-animation-duration: 1s!important;animation-duration: 1s!important;-webkit-animation-fill-mode: both!important;animation-fill-mode: both!important;animation-name: fadeInLeft!important; }
+input,select {transition: 500ms ease-out }
+input:focus,select:focus {border: 1.5px solid #1ac53f!important}
+/*input:not(.iph):hover,select:hover {transform: scale(1.1) }
+*/
+.m2 {margin: 2%}
+.a:visited {color: red!important;}
+.wb {background-color: white!important}
+.index a {margin: 2% 1%}
+.tox-statusbar a {display: none!important;}

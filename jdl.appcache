@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+# v0.1
+
+CACHE:
+index.php
+css/master.css
+img/logo-f.png
+
+FALLBACK:
+/ /offline.html
+
+NETWORK:
+*

@@ -1,0 +1,10 @@
+.ar {padding: 2%;background-color: #ded5d5;color: black;}
+.ar .ref {width: 30%;margin: 2%;padding: 2%;font-size: 1.4rem;}
+.ar .ref img {width: 100%;height: 400px;}
+.ar .ref span {font-weight: bolder;text-decoration: underline;}
+.ar .cn {width: 80%;margin: 2%;padding: 2%;font-size: 18px;}
+.ar .cn::first-letter {font-size: 2rem}
+.ar .ct {margin: 2% auto;padding: 3%}
+.ar .do {margin: auto!important;}
+.ar .do input {margin: 2%!important}
+.comm img {border-radius: 20px;}

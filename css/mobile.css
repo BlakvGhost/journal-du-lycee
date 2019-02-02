@@ -1,0 +1,43 @@
+  header .h1 {flex-direction:column;width: 90%;margin: auto;}
+  header .h1 .search-div {width: 94%!important;margin: 2% auto!important}
+  header .h1 p,.h1 form {margin: auto!important;width: 100%!important}
+  header .h1 p:last-child {width: 50%!important;margin: auto;}
+  header .h1 p:last-child,.h1 .search-div { }
+  header .h1 img {width: 80%;height: 100%}
+  header .h1 .logo {text-align: center;}
+  header .h2 {margin: 1% auto;padding: 2%;background-color:  #151934;}
+  header .h2 ul {width: 90%!important;border: none;padding: 0}
+  header .h2>ul li a {font-size: 1rem!important;}
+  .main  {flex-direction: column-reverse;}
+  #article,#sidebar {width: 95%!important;margin: 5% auto;}
+  #article .dd {text-align: center;}
+  #article .form_c {flex-direction: column;}
+  #article .form_c form {width: 90%;margin:3% auto;text-align: center;}
+  #article .doc_aff .doc {width: 25%;text-align: left!important;}
+  #article .doc_aff {text-align: center; }
+  #article .dd .dc { }
+  #article .dd .dc ul {flex-wrap: wrap;}
+  #article .dd .dc ul li {margin:2% auto;}
+  #article .atcl {text-align: left!important;width: 90%;margin: 2% auto;}
+  #article .atcl_c img {height: 350px}
+  #article .atcl .preview {height: 60px;font-size: 1.5rem}
+  #sidebar {width: 95%!important }
+  #sidebar .s1 a {font-size: 2.6rem;text-align: center;}
+  footer .footer {flex-direction: column-reverse;width: 85%;padding: 5% 0;}
+  footer .footer>div {width: 87%;margin: auto;}
+  footer .footer .f2 a {font-size: 1.4rem}
+  footer .footer .f3 a {font-size: 2.6rem}
+  .cfaire .ar {flex-direction: column!important; }
+  .cfaire .ar>div {width: 86%;margin: 2% auto;}
+  .cfaire .do {width: 87%!important;}
+  .cfaire .do input {height: 70px!important}
+  .forum .fm {flex-wrap: wrap;}
+  .forum .fm textarea {width: 85%!important;height: 150px;}
+  .forum .fm input {margin: 4% 0!important}
+  .forum .fm select {margin: 4% 8%!important;}
+  .forum .disc .title {font-size: 15px!important;}
+  .page .atcl { margin: 6% auto!important;}
+  .page .recher h4 {font-size: 11px;}
+  .sign .sign_m {flex-direction: column-reverse;;}
+  .sign .sign_m form {width: 85%!important;margin: 3% auto!important;}
+  .s4 {display: none!important;}

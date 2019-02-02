@@ -1,0 +1,28 @@
+.forum { }
+.forum form {width: auto!important;}
+.forum form textarea {width:50%;margin: auto;height: 100px;}
+.forum form input,.forum select {width: 20%;height: 70px!important;}
+.forum .form2 {border: none!important;}
+.forum .form2 input,.form2 select {height: 30px!important;margin: 0 2%!important}
+.forum .disc {background-color: silver;width: 90%;font-size: 18px;border-radius: 12px;margin: 2% auto;overflow: hidden;}
+.forum .disc span {font-weight: bolder;}
+.forum .disc .button a{width: 30%;height: 30px;margin: 1%;background-color: white;color: black;font-weight: bolder;line-height: 1.5;transition: 500ms ease-out}
+.forum .disc .button a:hover {background-color: #ffb5b5;transform: scale(.9);}
+.publier form textarea {width: 90%;margin: auto;}
+.publier form input,.publier select {display: inline; margin: 2% 0!important}
+.publier .file {width: 20%;height: 70px;color: #5267ca;text-align: center;background: white;border-radius: 12px;margin: auto;}
+.publier .dc-fr input{width: 40%!important}
+.forum .disc .msg {border: 1px solid #5267ce;padding: 1%;border-radius: 10px;color: #441c1c;box-shadow: -20px -10px 20px 0px rgb(0 0 0 / 32%);background-color: #8f97bf;font-size: 20px;}
+.forum .disc .msg_box img {border-radius: 15px;}
+.forum .msg_box .mbx {;margin: 3%;color: #5267ce;width: 60%;transition: 500ms ease-out}
+.forum .msg_box .mbx:hover {transform: scale(1.2); }
+.forum .disc .d {margin: 0!important;border-radius: 0!important;}
+.forum .disc .d i {margin: 0 1%;color: #1c2340;}
+.forum .disc .d .right {text-decoration: none!important;font-style: normal;}
+.forum .disc .sub_disc {padding: 4%}
+.forum .disc .sub_disc .mgr {text-align: center;font-weight: bolder;}
+.forum .disc .sub_disc .mgr .down {color:#5267ce; }
+.forum .comm .t1 {font-size: 1.4rem;}
+/* Recherche */
+.rech .d h3 {margin: 4% 2%}
+.rech .d .comm {margin: auto 2%}

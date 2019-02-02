@@ -1,0 +1,12 @@
+{name: "eRESULTATS", short_name: "eRESULTATS", theme_color: "#F0A945",…}
+background_color: "#0A3764"
+display: "standalone"
+icons: [{src: "./img/icons/android-chrome-192x192.png", sizes: "192x192", type: "image/png"},…]
+0: {src: "./img/icons/android-chrome-192x192.png", sizes: "192x192", type: "image/png"}
+1: {src: "./img/icons/android-chrome-512x512.png", sizes: "512x512", type: "image/png"}
+2: {src: "./img/icons/android-chrome-maskable-192x192.png", sizes: "192x192", type: "image/png",…}
+3: {src: "./img/icons/android-chrome-maskable-512x512.png", sizes: "512x512", type: "image/png",…}
+name: "eRESULTATS"
+short_name: "eRESULTATS"
+start_url: "."
+theme_color: "#F0A945"

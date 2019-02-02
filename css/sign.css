@@ -1,0 +1,10 @@
+#sign {-webkit-animation-duration: 1s;animation-duration: 1s;-webkit-animation-fill-mode: both;animation-fill-mode: both;animation-name: bounceInDown;z-index: 5000;padding: 3% 0}
+#sign legend {font-size: 2rem;margin: 3%;padding: 4%}
+#sign form {width: 45%;margin: 5% auto;background-color: silver;text-align: center;border-radius: 8px}
+#sign select,#sign input {width: 80%!important;height: 50px!important;padding: .5%;margin: 1% 0;border: none!important;outline: none!important;border-radius: 15px;padding: 0 2%;background-color: #DDE5EC}
+#sign select {width: 50%;}
+#sign .sl-m {width: 84%;margin: auto;}
+#sign form input[type='submit'] {width: 40%;font-size: 1.5rem;background-color:#5267ce;color: white;font-weight: bolder;margin: 3% auto;}
+#sign .a-s {padding: 2%}
+#sign form .ins {border: 2px solid #5267ce;border-radius: 10px;width: 85%;padding: 1%;margin: auto;}
+#sign form .file {font-style: italic;text-overflow: ellipsis;}
